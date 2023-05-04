@@ -26,7 +26,7 @@ export const Contact = () => {
           <img src={contact} alt="contact information" className="w-32 h-32" />
         </div>
         <div>
-          <p className="m-w-screen md:max-w-lg font-extralight pt-6">
+          <p className="min-w-screen text-xs md:max-w-lg font-extralight pt-6">
             I am open to freelance, contract or full-time opportunities. Kindly,
             reach out to me using your preferred medium.
           </p>
