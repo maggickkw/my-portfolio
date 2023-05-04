@@ -62,7 +62,7 @@ export const Hero = () => {
           className="w-60 h-60 md:w-72 md:h-72 object-cover object-top bg-gradient-to-b from-rose-600 rounded-xl"
         />
         <a
-          href="/resume.pdf"
+          href="/coding-resume.pdf"
           download={true}
           className="flex items-center justify-center mt-10 bg-gradient-to-r from-rose-600 to-teal-500 text-white py-2 rounded-lg"
         >
