@@ -21,12 +21,12 @@ export const Contact = () => {
       title="Contact 📞"
       subtitle="These are the ways to get in touch with me. I hope to hear from you soon 😎"
     >
-      <div className="min-h-fit flex flex-col items-center justify-center  text-center pt-4">
+      <div className="flex flex-col items-center justify-center  text-center pt-4">
         <div>
           <img src={contact} alt="contact information" className="w-32 h-32" />
         </div>
         <div>
-          <p className="min-w-xs  md:max-w-lg font-extralight pt-6">
+          <p className="min-w-xs text-center justify-center md:max-w-lg font-extralight pt-6">
             I am open to freelance, contract or full-time opportunities. Kindly,
             reach out to me using your preferred medium.
           </p>

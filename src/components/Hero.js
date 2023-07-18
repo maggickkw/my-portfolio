@@ -1,5 +1,5 @@
 import { FaTwitter, FaLinkedin, FaGithub, FaArrowDown } from "react-icons/fa";
-import avatar from "../assets/avatar.png";
+import picture from "../assets/picture.jpg"
 
 export const Hero = () => {
   const SOCIAL = [
@@ -57,7 +57,7 @@ export const Hero = () => {
 
       <div>
         <img
-          src={avatar}
+          src={picture}
           alt=""
           className="w-60 h-60 md:w-72 md:h-72 object-cover object-top bg-gradient-to-b from-rose-600 rounded-xl"
         />
